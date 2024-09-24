@@ -1,8 +1,8 @@
 # List Interface
 
 <p align="center">
-<img src="../../../../assets/image/list-interface-hierarchy.png" alt="List interface hierarchy Java"><br>
-<a href="https://data-flair.training/blogs/collection-framework-in-java/">Hierarchy of Collection Framework in Java </a>
+
+>Hierarchy of Collection Framework in Java
 </p>
 
 - A interface <code>List</code> é uma coleção ordenada que permite a inclusão de elementos duplicados.
